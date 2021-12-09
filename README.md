@@ -1,5 +1,3 @@
-# JianhengHou.github.io
-Portfolio of Jianheng Hou
 
 ## [Medical Sieve: Topic-based Sentiment Analysis Engine](https://jianhenghou.github.io/Medical-Sieve/)
 An end-to-end topic-based sentiment analysis engine with deep learning and NLP through top-down way to decipher patient sentiment around issues of interest for venture opportunities sourcing for a data-driven venture capital firm.
