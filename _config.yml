@@ -1,3 +1,9 @@
+
+titles_from_headings:
+  enabled:     false
+  strip_title: false
+  collections: false
+  
 theme: jekyll-theme-cayman
 title: Portfolio Home Page
 description: Jianheng Hou
