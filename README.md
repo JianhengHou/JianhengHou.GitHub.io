@@ -5,5 +5,8 @@ An end-to-end topic-based sentiment analysis engine with deep learning and NLP t
 ## [Pipeline: Customer Consumption Tracking and Causal Analysis for Behavior Changes](https://jianhenghou.github.io/consumption-tracking-and-causal-analysis/)
 Tracking top sector movers based on metrics related to customer consumption to inform potential investment opportunities, identifying top demographic factors of customers correlated to the metric movement, and analyzing structural vs behavioral contribution of representative customer segments to the change. 
 
+## [A sample report for startups (Due Diligence)](https://jianhenghou.github.io/company_report/)
+Analysis on cohort & funnel,  segmentation, and the health of monetization business and financial metrics.
+
 ## [Text-enabled Humanitarian Operation in Real-time framework](https://researchoutreach.org/articles/crisis-management-artificial-intelligence-save-lives/)
 Designed online clustering algorithm to identify different situations (i.e. related context groups) based on tweet messages and other features as one of conponents of this DARPA funded project, which is used to inform emergency services and humanitarian aid, providing clues about where to focus rescue efforts.
