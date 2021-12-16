@@ -1,5 +1,5 @@
 
-## [Medical Sieve: Topic-based Sentiment Analysis Engine](https://jianhenghou.github.io/Medical-Sieve/)
+## [Text Mining: Topic-based Sentiment Analysis Engine](https://jianhenghou.github.io/Medical-Sieve/)
 An end-to-end topic-based sentiment analysis engine with deep learning and NLP through top-down way to decipher patient sentiment around issues of interest for venture opportunities sourcing for a data-driven venture capital firm.
 
 ## [Customer Consumption Tracking and Causal Analysis for Behavior Changes](https://jianhenghou.github.io/consumption-tracking-and-causal-analysis/)
